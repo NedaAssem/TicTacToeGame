@@ -1,0 +1,10 @@
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\Tic-TacToeGame\bin\Debug\Tic-TacToeGame.exe.config
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\Tic-TacToeGame\bin\Debug\Tic-TacToeGame.exe
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\Tic-TacToeGame\bin\Debug\Tic-TacToeGame.pdb
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\Tic-TacToeGame\obj\Debug\Tic-TacToeGame.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\Tic-TacToeGame\obj\Debug\Tic_TacToeGame.frmTic_Tac_ToeGame.resources
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\Tic-TacToeGame\obj\Debug\Tic_TacToeGame.Properties.Resources.resources
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\Tic-TacToeGame\obj\Debug\Tic-TacToeGame.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\Tic-TacToeGame\obj\Debug\Tic-TacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\Tic-TacToeGame\obj\Debug\Tic-TacToeGame.exe
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\Tic-TacToeGame\obj\Debug\Tic-TacToeGame.pdb
