@@ -47,9 +47,9 @@ Tic_Tac_ToeGame/
 This project was created to practice:
 - Building interactive Windows Forms  
 - Implementing basic game rules and logic  
--Make one event instead of 9 events 
+- Make one event instead of 9 events 
 
 ---
 
-## 📸 Screenshots (Optional)
-_Add screenshots of your Tic Tac Toe board here later._
+## 📸 Screenshots 
+![Tic Tac Toe Screenshot]()
