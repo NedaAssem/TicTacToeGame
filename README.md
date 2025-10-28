@@ -24,14 +24,14 @@ It allows two players to play Tic Tac Toe and demonstrates the basics of **game 
 
 ## 🏗️ Project Structure
 
-Tic_Tac_ToeGame/
-│
-├── Forms/
-│ ├── MainForm.cs
-│ ├── MainForm.Designer.cs
-│ └── Program.cs
-│
-└── README.md
+Tic_Tac_ToeGame/  
+│   
+├── Forms/  
+│ ├── MainForm.cs   
+│ ├── MainForm.Designer.cs  
+│ └── Program.cs   
+│   
+└── README.md   
 
 
 ---
@@ -52,4 +52,4 @@ This project was created to practice:
 ---
 
 ## 📸 Screenshots 
-![Tic Tac Toe Screenshot]()
+![Tic Tac Toe Screenshot](https://github.com/NedaAssem/TicTacToeGame/blob/0d772522b47fe9ef604c4d5a61103fc90e48efe2/Image.png)
